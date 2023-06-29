@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9QvzhZXsai9MsLhzLl2GNIl8Mt03ga2fulPfNFpBxm8=",
+  "Source": "Reservation.WebApi",
+  "BasePath": "_content/Reservation.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

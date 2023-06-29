@@ -1,0 +1,12 @@
+D:\training\Reservation\ShareLib\bin\Debug\net7.0\ShareLib.deps.json
+D:\training\Reservation\ShareLib\bin\Debug\net7.0\ShareLib.dll
+D:\training\Reservation\ShareLib\bin\Debug\net7.0\ShareLib.pdb
+D:\training\Reservation\ShareLib\obj\Debug\net7.0\ShareLib.csproj.AssemblyReference.cache
+D:\training\Reservation\ShareLib\obj\Debug\net7.0\ShareLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\Reservation\ShareLib\obj\Debug\net7.0\ShareLib.AssemblyInfoInputs.cache
+D:\training\Reservation\ShareLib\obj\Debug\net7.0\ShareLib.AssemblyInfo.cs
+D:\training\Reservation\ShareLib\obj\Debug\net7.0\ShareLib.csproj.CoreCompileInputs.cache
+D:\training\Reservation\ShareLib\obj\Debug\net7.0\ShareLib.dll
+D:\training\Reservation\ShareLib\obj\Debug\net7.0\refint\ShareLib.dll
+D:\training\Reservation\ShareLib\obj\Debug\net7.0\ShareLib.pdb
+D:\training\Reservation\ShareLib\obj\Debug\net7.0\ref\ShareLib.dll

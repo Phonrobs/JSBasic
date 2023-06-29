@@ -1,0 +1,15 @@
+D:\training\Reservation\Reservation.Infrastructure\bin\Debug\net7.0\Reservation.Infrastructure.deps.json
+D:\training\Reservation\Reservation.Infrastructure\bin\Debug\net7.0\Reservation.Infrastructure.dll
+D:\training\Reservation\Reservation.Infrastructure\bin\Debug\net7.0\Reservation.Infrastructure.pdb
+D:\training\Reservation\Reservation.Infrastructure\bin\Debug\net7.0\Reservation.Domain.dll
+D:\training\Reservation\Reservation.Infrastructure\bin\Debug\net7.0\Reservation.Domain.pdb
+D:\training\Reservation\Reservation.Infrastructure\obj\Debug\net7.0\Reservation.Infrastructure.csproj.AssemblyReference.cache
+D:\training\Reservation\Reservation.Infrastructure\obj\Debug\net7.0\Reservation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\Reservation\Reservation.Infrastructure\obj\Debug\net7.0\Reservation.Infrastructure.AssemblyInfoInputs.cache
+D:\training\Reservation\Reservation.Infrastructure\obj\Debug\net7.0\Reservation.Infrastructure.AssemblyInfo.cs
+D:\training\Reservation\Reservation.Infrastructure\obj\Debug\net7.0\Reservation.Infrastructure.csproj.CoreCompileInputs.cache
+D:\training\Reservation\Reservation.Infrastructure\obj\Debug\net7.0\Reservation.Infrastructure.csproj.CopyComplete
+D:\training\Reservation\Reservation.Infrastructure\obj\Debug\net7.0\Reservation.Infrastructure.dll
+D:\training\Reservation\Reservation.Infrastructure\obj\Debug\net7.0\refint\Reservation.Infrastructure.dll
+D:\training\Reservation\Reservation.Infrastructure\obj\Debug\net7.0\Reservation.Infrastructure.pdb
+D:\training\Reservation\Reservation.Infrastructure\obj\Debug\net7.0\ref\Reservation.Infrastructure.dll

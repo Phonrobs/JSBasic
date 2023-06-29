@@ -1,0 +1,12 @@
+D:\training\Reservation\Reservation.Domain\bin\Debug\net7.0\Reservation.Domain.deps.json
+D:\training\Reservation\Reservation.Domain\bin\Debug\net7.0\Reservation.Domain.dll
+D:\training\Reservation\Reservation.Domain\bin\Debug\net7.0\Reservation.Domain.pdb
+D:\training\Reservation\Reservation.Domain\obj\Debug\net7.0\Reservation.Domain.csproj.AssemblyReference.cache
+D:\training\Reservation\Reservation.Domain\obj\Debug\net7.0\Reservation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\Reservation\Reservation.Domain\obj\Debug\net7.0\Reservation.Domain.AssemblyInfoInputs.cache
+D:\training\Reservation\Reservation.Domain\obj\Debug\net7.0\Reservation.Domain.AssemblyInfo.cs
+D:\training\Reservation\Reservation.Domain\obj\Debug\net7.0\Reservation.Domain.csproj.CoreCompileInputs.cache
+D:\training\Reservation\Reservation.Domain\obj\Debug\net7.0\Reservation.Domain.dll
+D:\training\Reservation\Reservation.Domain\obj\Debug\net7.0\refint\Reservation.Domain.dll
+D:\training\Reservation\Reservation.Domain\obj\Debug\net7.0\Reservation.Domain.pdb
+D:\training\Reservation\Reservation.Domain\obj\Debug\net7.0\ref\Reservation.Domain.dll

@@ -1,0 +1,12 @@
+D:\training\TodoBackend\TodoBackend.Contracts\bin\Debug\net6.0\TodoBackend.Contracts.deps.json
+D:\training\TodoBackend\TodoBackend.Contracts\bin\Debug\net6.0\TodoBackend.Contracts.dll
+D:\training\TodoBackend\TodoBackend.Contracts\bin\Debug\net6.0\TodoBackend.Contracts.pdb
+D:\training\TodoBackend\TodoBackend.Contracts\obj\Debug\net6.0\TodoBackend.Contracts.csproj.AssemblyReference.cache
+D:\training\TodoBackend\TodoBackend.Contracts\obj\Debug\net6.0\TodoBackend.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\TodoBackend\TodoBackend.Contracts\obj\Debug\net6.0\TodoBackend.Contracts.AssemblyInfoInputs.cache
+D:\training\TodoBackend\TodoBackend.Contracts\obj\Debug\net6.0\TodoBackend.Contracts.AssemblyInfo.cs
+D:\training\TodoBackend\TodoBackend.Contracts\obj\Debug\net6.0\TodoBackend.Contracts.csproj.CoreCompileInputs.cache
+D:\training\TodoBackend\TodoBackend.Contracts\obj\Debug\net6.0\TodoBackend.Contracts.dll
+D:\training\TodoBackend\TodoBackend.Contracts\obj\Debug\net6.0\refint\TodoBackend.Contracts.dll
+D:\training\TodoBackend\TodoBackend.Contracts\obj\Debug\net6.0\TodoBackend.Contracts.pdb
+D:\training\TodoBackend\TodoBackend.Contracts\obj\Debug\net6.0\ref\TodoBackend.Contracts.dll
